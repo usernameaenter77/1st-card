@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(255, 255, 255);
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  height: 100vh;
+  padding: 380px;
+}
+.card {
+  margin: 100px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: white;
+  width: 300px;
+  height: 400px;
+  background-color: #eee;
+
+  width: 300px;
+  height: 400px;
+  background-color: #ee;
+  box-shadow: 2px 4px 5px rgb(87, 87, 87);
+}
+img {   
+  width: 100%;
+  margin: -40px 0;
+}
+.content {
+  margin: 50px 20px;
+ font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(0, 0, 0);
+  padding: 2px;
+  font-weight: 100;
+  
+}
+.lorem{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(155, 155, 155);
+    margin: -40px 25px ;
+   font-weight: 10 ;
+}
+
